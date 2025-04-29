@@ -1,4 +1,4 @@
-## Hi! Welcome to my GitHub! :cat1:
+## Hi! Welcome to my GitHub! :strawberry:
 ---
 My name is Sophie Willett and I'm currently an undergraduate student at UW-Eau Claire with a major in bioinformatics.
 
