@@ -3,7 +3,9 @@
 My name is Sophie Willett and I'm currently an undergraduate student at UW-Eau Claire majoring in bioinformatics.
 
 For more information, check out my website! :cherry_blossom:
+
 https://swill04.github.io
+
 
  <p align="center">
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
