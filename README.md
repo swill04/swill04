@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! Welcome to my GitHub! :cat1:
+---
+My name is Sophie Willett and I'm currently an undergraduate student at UW-Eau Claire with a major in bioinformatics.
 
 <!--
 **swill04/swill04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
