@@ -1,6 +1,6 @@
 ##  Hi! Welcome to my GitHub! :strawberry:
 
-My name is Sophie Willett and I'm currently an undergraduate student at UW-Eau Claire majoring in bioinformatics.
+My name is Sophie Willett and I'm a recent graduate from UW-Eau Claire with a B.S. in bioinformatics.
 
 For more information, check out my website! :cherry_blossom:
 
